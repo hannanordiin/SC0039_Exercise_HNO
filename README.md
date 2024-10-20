@@ -1,4 +1,4 @@
-# Copy Number Variation Segment Length Calculator
+# SC0039_Exercise_HNO
 
 This Python script reads a CSV file containing copy number variations (CNVs) from breast cancer samples, calculates the length of each segment, and outputs a new CSV file with an additional column for the segment length.
 
