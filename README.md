@@ -56,13 +56,3 @@ Sample2,2,1500,2500,1000
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-### How to Use This `README.md` File:
-1. Copy the text above.
-2. Create a new file named `README.md` in the same directory as your Python script.
-3. Paste the text into the `README.md` file.
-4. Customize any sections as needed, particularly the `License` section if you have specific licensing requirements.
-
-This `README.md` provides a clear overview of your project, how to use the script, the expected input and output formats, and any requirements. Let me know if you need further modifications or additional sections!
-
-
-
